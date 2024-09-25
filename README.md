@@ -1,6 +1,8 @@
 # New_task
 #This folder contains solution for the below given problem statement
 #I have used python to resolve the issue and choice of database is Azure sql database
+#check solution.py for the code
+
 Coding Exercise “QA checks”
 
 The candidate can chose between on-premise or Cloud RDBMS; the programming language can be python or
