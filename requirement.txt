@@ -1,0 +1,4 @@
+pandas==2.1.1
+pyodbc==4.0.35
+azure-keyvault-secrets==4.5.1
+azure-identity==1.13.0
