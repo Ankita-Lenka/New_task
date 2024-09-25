@@ -82,7 +82,7 @@ def run_qa_checks():
         test_sql_template = row['test_sql']
         exp_result = row['exp_result']
         
-        # Example runtime values; these could be fetched dynamically based on your environment
+        # Example runtime values; these could be fetched dynamically 
         runtime_values = ["env_value", "2023-09-01"]
         
         # Replace parameters with runtime values
