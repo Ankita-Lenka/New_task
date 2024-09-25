@@ -1,3 +1,4 @@
+#import required libraries
 import pyodbc
 import pandas as pd
 from azure.identity import DefaultAzureCredential
